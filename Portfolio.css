@@ -306,7 +306,6 @@
 .u-section-1 .u-group-14 {
   width: 366px;
   min-height: 238px;
-  height: auto;
   margin: -238px auto 0;
 }
 
@@ -572,7 +571,7 @@
   font-weight: 400;
   box-shadow: 0px 0px 0 0 rgba(0,0,0,0);
   letter-spacing: 0px;
-  margin: 0 -9px;
+  margin: 0;
 }
 
 @media (max-width: 1199px) {
@@ -591,10 +590,6 @@
 
   .u-section-1 .u-group-13 {
     background-position: 50% 50%;
-  }
-
-  .u-section-1 .u-group-14 {
-    height: auto;
   }
 
   .u-section-1 .u-accordion-pane-3 {
@@ -822,11 +817,6 @@
 
   .u-section-1 .u-group-23 {
     width: 340px;
-  }
-
-  .u-section-1 .u-text-22 {
-    margin-left: 0;
-    margin-right: 0;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 991px;
